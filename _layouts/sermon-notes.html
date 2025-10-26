@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="home">
+{% assign filtered_posts = "" | split: "" %}
+{% for post in site.posts %}
+  {% if post.tags contains 'sermon_notes' or post.categories contains 'sermon-notes' %}
+	{% assign filtered_posts = filtered_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% if filtered_posts.size > 0 %}
+  <ul class="post-list">
+    {% for post in filtered_posts %}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }} 
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+          </a>
+        {% if post.show_excerpt %}
+          <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No posts found with this tag or category.</p>
+{% endif %}
+</div>

@@ -1,36 +1,37 @@
-11110 RUMC
-Serimiah 29:14-7
-Grow where you are planted.
-Fer 29:11 I plan to prosper you.
-Totheexiles—
-Jerinish is opposing another letter that
-is circulating.
-Go plant crops, have kids, and build
-family—whereveryou are
-Pray for the people and place where
-you are. The other letter is saying you
-will return to Jersalem soon. Jarimiah is
-saying it may not happen in your lifetime.
-Your kids may not get t go.
-He says, that GOD is saying, to
-live your life where you are. Have
-kids, buill houses, build family, communit,
+# Grow where you are planted.
+## Jeremiah 29:14-7
+### RUMC: Pastor Augie
+### 11 Oct 2025
+### Scary Theology Series
+Jer 29:11 I plan to prosper you.
+To the exiles --
 
-and colture. Pray for where you are,
-that if will be peaceful, prosper, and
-sopport the commonity
-Stop hoping on something, that may
-or not happen, with so much energy
-and depth that it interrepts daily life
-to He point that you are not present
+Jeremiah is opposing another letter that is circulating.
+
+Jeremiah tell the Israelites in captivity to go plant crops, have kids, and build
+families -- wherever you are… Pray for the people and place where you find yourself.
+
+The other letter is saying you will return to Jerusalem soon.
+
+Jeremiah is saying it may not happen in your lifetime.
+
+Even your kids may not get to go back to Jerusalem.
+
+He says, that GOD is saying, to live your life where you are.
+Have kids, build houses, build family, build communities and culture.
+
+Pray for where you are, that it will be peaceful, prosper, and support the community.
+
+Stop hoping on something, that may or not happen, with so much energy
+and depth that it interrupts daily life
+to the point that you are not present
 in your daily life.
+
 God is telling them to not put so much
-energy in the"not yet" and "no longes."
-hive where you are; live in your circusm-
-stances daily. You are where you are.
-Gratitvde
-There is PRAsE to be had where
-Thanks
-you are.
-Growwhereyou are,
-God shows up where you are.
+energy in the"not yet" and "no longer."
+Live where you are; live in your daily circumstances.
+You are where you are.
+
+There is gratitude, praise, and thanks to be had where you are.
+
+Grow where you are planted; God shows up wherever you are.

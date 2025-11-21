@@ -2,7 +2,7 @@
 date: '2025-10-05T010:26:00-04:00'
 title: 'Scary Theology: Hell Houses'
 published: true
-categories: ["Sermon Notes"]
+categories: ["sermon-notes"]
 tags: ["theology", "halloween", "hell", "sermon notes", "rumc", "augie"]
 showToc: true
 TocOpen: false

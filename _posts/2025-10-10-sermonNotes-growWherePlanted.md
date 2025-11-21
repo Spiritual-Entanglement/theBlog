@@ -2,7 +2,7 @@
 date: '2025-10-10T010:26:00-04:00'
 title: 'Scary Theology: It May NOT Get Better'
 published: true
-categories: ["Sermon Notes"]
+categories: ["sermon-notes"]
 tags: ["theology", "jeremiah", "captivity", "exile", "israel", "sermon notes", "rumc", "augie"]
 showToc: true
 TocOpen: false

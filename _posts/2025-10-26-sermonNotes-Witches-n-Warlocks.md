@@ -2,7 +2,7 @@
 date: '2025-10-26T010:26:00-04:00'
 title: 'Scary Theology: Witches and Wizards'
 published: true
-categories: ["Sermon Notes"]
+categories: ["sermon-notes"]
 tags: ["scary", "theology", "exodus", "deu", "galatians", "halloween", "witches", "wizards", "harry potter", "sermon notes", "rumc", "augie"]
 showToc: true
 TocOpen: false

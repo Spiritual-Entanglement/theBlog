@@ -2,7 +2,7 @@
 date: '2025-11-02T010:26:00-04:00'
 title: 'Scary Theology: The Dead'
 published: true
-categories: ["Sermon Notes"]
+categories: ["sermon-notes"]
 tags: ["ephesians", "scary", "theology", "dead", "death", "souls", "spirits", "hell", "sermon notes", "rumc", "augie"]
 showToc: true
 TocOpen: false

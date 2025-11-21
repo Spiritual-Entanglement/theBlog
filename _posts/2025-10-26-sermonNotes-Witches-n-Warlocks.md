@@ -1,3 +1,15 @@
+---
+date: '2025-10-26T010:26:00-04:00'
+title: 'Scary Theology: Witches and Wizards'
+published: true
+categories: ["Sermon Notes"]
+tags: ["scary", "theology", "exodus", "deu", "galatians", "halloween", "witches", "wizards", "harry potter", "sermon notes", "rumc", "augie"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+
+---
 # Witches & Wizards
 ## Ex 22:18,Deu18:10-12,Gal5:16-26
 ### RUMC, Pastor Augie
@@ -13,12 +25,12 @@ Harry Potter series, The uproar around
 it when it first came out. Why was there
 such a huge uproar?
 
-Some Scripture we can read talks
+Some Scripture we can read, talks
 very strongly against witchcraft.
 
 The Dunning-Kruger Effect.
 "Trust me it's complicated."
-First is this peak of over - confidence because we have found a
+First is this peak of over-confidence because we have found a
 little bit of information, we think we know everything.
 
 The witch hunts: "They didn't burn witches; they burned women!"
@@ -26,7 +38,7 @@ The witch hunts: "They didn't burn witches; they burned women!"
 William Tindale was burned for translating
 the Bible into English
 
-When Eminem came out his (Pastor Augie's) parents
+When Eminem came out, his (Pastor Augie's) parents
 had him read the lyrics, and asked
 him what is good and bad in those lyrics?
 

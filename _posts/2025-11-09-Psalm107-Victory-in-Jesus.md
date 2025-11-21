@@ -1,7 +1,7 @@
 ---
 date: '2025-11-09T07:00:00-04:00'
 title: 'Psalm 107: Victory in Jesus'
-draft: false
+published: false
 categories: ["Formation", "spiritual Freedom", "Psalms", "Victory"]
 tags: ["Catholic", "Protestant", "Tools", "Prayer", "Psalms", "Victory", "The Cross", "Crucifixion", "Slavery to sin", "sin addiction"]
 showToc: true
@@ -54,14 +54,17 @@ for us by His death on the Cross.
 But you have to exercise this victory. You
 have to choose the victory.
 
-*Sin is an addictive slavery.*
+*Sin is an addictive slavery.
+It has us bound in chains.*
 
 Following Jesus is not addictive;
 it is freedom -- freedom to choose
 the path you will take. That is
 your free will in action; you make the choice.
 If you choose to follow sin (pride,
-pleasure, power) God will leave you to it.
+pleasure, power (see Jesus' temptation
+in the desert after His baptism)),
+God will leave you to it.
 You will reap what you sow.
 
 If you choose to follow Christ, God is

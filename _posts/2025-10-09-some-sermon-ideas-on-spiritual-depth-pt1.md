@@ -1,7 +1,7 @@
 ---
 date: '2025-10-08T17:26:00-04:00'
 title: 'Some Sermon Ideas on Spiritual Depth pt 1'
-draft: false
+published: true
 categories: ["Preaching Ideas", "Parables", "Formation"]
 tags: ["sermon ideas", "spirituality", "depth"]
 showToc: true

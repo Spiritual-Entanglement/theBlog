@@ -1,3 +1,15 @@
+---
+date: '2025-10-10T010:26:00-04:00'
+title: 'Scary Theology: It May NOT Get Better'
+published: true
+categories: ["sermon-notes"]
+tags: ["theology", "jeremiah", "captivity", "exile", "israel", "sermon notes", "rumc", "augie"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+
+---
 # Grow where you are planted.
 ## Jeremiah 29:14-7
 ### RUMC: Pastor Augie
@@ -17,12 +29,13 @@ Jeremiah is saying it may not happen in your lifetime.
 
 Even your kids may not get to go back to Jerusalem.
 
-He says, that GOD is saying, to live your life where you are.
+He says that GOD is saying, to live your life where you are.
 Have kids, build houses, build family, build communities and culture.
 
-Pray for where you are, that it will be peaceful, prosper, and support the community.
+Pray for where you are: the society, culture, government, etc.
+Pray that it will be peaceful, prosper, and support the community.
 
-Stop hoping on something, that may or not happen, with so much energy
+Stop hoping on something that may or not happen, with so much energy
 and depth that it interrupts daily life
 to the point that you are not present
 in your daily life.

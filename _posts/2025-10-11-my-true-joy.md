@@ -1,9 +1,9 @@
 ---
 date: '2025-10-10T09:26:00-04:00'
 title: 'My Real Joy'
-draft: false
+published: true
 categories: ["Formation", "spiritual relationship"]
-tags: ["spirituality", "depth", "relationship"]
+tags: ["spirituality", "depth", "relationship", "joy"]
 showToc: true
 TocOpen: false
 hidemeta: false
